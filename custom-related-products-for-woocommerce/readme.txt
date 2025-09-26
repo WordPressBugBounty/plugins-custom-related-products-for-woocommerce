@@ -31,7 +31,7 @@ This plugin has been tested with WooCommerce through version 10.
 
 == Changelog ==
 = 1.4 =
-* Fix version compare logic to restore compatibility with WooCommerce versions 10 and above.
+* Fix version compare logic to restore compatibility with WooCommerce versions 10 and above. Props to Viktor Novikov.
 
 = 1.3 =
 * Update to work with the UI rewrite and related post querying rewrite in WooCommerce 3.0.
